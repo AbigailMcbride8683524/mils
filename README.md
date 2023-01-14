@@ -1671,3 +1671,4 @@ Updated project documentation - build 564
 Added input validation - v7.2.0
 Updated version number - build 955
 Updated version number - v10.6.0
+Updated project documentation - v8.5.2
