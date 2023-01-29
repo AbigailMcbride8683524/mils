@@ -339,3 +339,4 @@ Added proper error handling - 261
 Added detailed comments for clarity - update 15
 Fixed typo in documentation - 812
 Added detailed comments for clarity - update 49
+Refactored code for better maintainability
