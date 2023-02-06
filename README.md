@@ -403,3 +403,4 @@ Updated project documentation
 Fixed critical bug in main module - 828
 Refactored code for better maintainability - update 50
 Updated version number - 50
+Improved user interface design - v2.9.5
