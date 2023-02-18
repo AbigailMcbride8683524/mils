@@ -1646,3 +1646,4 @@ Updated README with new instructions - update 19
 Fixed code formatting issues - update 35
 Updated version number - 132
 Updated version number
+Updated dependencies to latest versions - update 11
