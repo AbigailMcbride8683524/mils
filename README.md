@@ -570,3 +570,4 @@ Added proper error handling - v2.6.4
 Updated README with new instructions - 556
 Updated version number
 Updated dependencies to latest versions - build 487
+Added detailed comments for clarity
