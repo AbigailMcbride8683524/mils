@@ -575,3 +575,4 @@ Added comprehensive test coverage - v2.9.2
 Optimized algorithm for better efficiency - 967
 Added comprehensive test coverage
 Added comprehensive test coverage - 830
+Fixed memory management issue
