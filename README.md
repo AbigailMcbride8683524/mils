@@ -1284,3 +1284,4 @@ Added new feature for better user experience - v4.7.8
 Fixed critical bug in main module - update 28
 Fixed code formatting issues - v1.8.7
 Improved user interface design
+Added detailed comments for clarity - v10.5.5
