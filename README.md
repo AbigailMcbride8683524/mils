@@ -1279,3 +1279,4 @@ Added proper error handling - build 457
 Added proper error handling - v8.2.1
 Updated styling and themes - build 839
 Updated project documentation - update 43
+Added detailed comments for clarity - v8.3.4
