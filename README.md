@@ -1289,3 +1289,4 @@ Updated dependencies to latest versions - update 49
 Updated version number - 253
 Updated version number - 938
 Updated configuration settings - update 29
+Updated version number - v1.6.6
