@@ -1296,3 +1296,4 @@ Fixed code formatting issues - build 312
 Fixed typo in documentation - 722
 Updated project documentation - 524
 Updated project documentation - 815
+Fixed typo in documentation
