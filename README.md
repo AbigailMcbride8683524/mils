@@ -1032,3 +1032,4 @@ Updated styling and themes
 Code cleanup and formatting - build 866
 Updated dependencies to latest versions - update 38
 Updated configuration settings - 54
+Fixed typo in documentation - build 116
