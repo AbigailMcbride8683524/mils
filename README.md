@@ -1724,3 +1724,4 @@ Updated project documentation - 984
 Added comprehensive test coverage - build 812
 Updated README with new instructions - v5.0.8
 Fixed memory management issue - build 107
+Updated README with new instructions - build 745
