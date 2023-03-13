@@ -2307,3 +2307,4 @@ Updated styling and themes - 422
 Code cleanup and formatting - 818
 Fixed memory management issue - build 829
 Updated dependencies to latest versions - 608
+Refactored code for better maintainability - v6.0.0
