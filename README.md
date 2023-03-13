@@ -2302,3 +2302,4 @@ Updated styling and themes - build 313
 Updated styling and themes - 47
 Added proper error handling
 Fixed memory management issue - update 10
+Updated dependencies to latest versions - v2.5.0
