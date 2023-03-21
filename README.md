@@ -115,3 +115,4 @@ Updated dependencies to latest versions - 460
 Fixed typo in documentation
 Updated styling and themes
 Added proper error handling - v5.0.0
+Fixed code formatting issues
