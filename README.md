@@ -3291,3 +3291,4 @@ Updated README with new instructions - update 20
 Fixed code formatting issues
 Updated project documentation - 836
 Updated dependencies to latest versions
+Refactored code for better maintainability - v2.5.7
