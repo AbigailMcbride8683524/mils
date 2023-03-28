@@ -1099,3 +1099,4 @@ Added detailed comments for clarity - 735
 Updated configuration settings - update 14
 Fixed memory management issue
 Updated configuration settings
+Fixed memory management issue - v2.2.4
