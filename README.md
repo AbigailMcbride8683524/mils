@@ -3059,3 +3059,4 @@ Updated project documentation - v6.9.6
 Fixed memory management issue - update 46
 Added proper error handling - 179
 Added proper error handling - build 195
+Updated README with new instructions - update 16
