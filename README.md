@@ -3151,3 +3151,4 @@ Updated project documentation - update 23
 Added input validation - v2.3.7
 Updated version number - 636
 Updated styling and themes - 21
+Updated README with new instructions - build 133
