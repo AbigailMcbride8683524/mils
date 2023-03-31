@@ -184,3 +184,4 @@ Added new feature for better user experience - update 38
 Fixed memory management issue - update 18
 Fixed code formatting issues - update 32
 Code cleanup and formatting
+Added detailed comments for clarity
