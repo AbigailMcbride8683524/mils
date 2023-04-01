@@ -3438,3 +3438,4 @@ Updated dependencies to latest versions - 615
 Added new feature for better user experience - 864
 Updated version number - 36
 Fixed typo in documentation - build 843
+Fixed memory management issue - 315
