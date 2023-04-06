@@ -3474,3 +3474,4 @@ Updated configuration settings - v8.0.8
 Fixed typo in documentation - update 26
 Updated dependencies to latest versions - update 33
 Added comprehensive test coverage - update 37
+Fixed typo in documentation - 756
