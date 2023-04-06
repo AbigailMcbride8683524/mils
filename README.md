@@ -3470,3 +3470,4 @@ Added detailed comments for clarity - build 457
 Refactored code for better maintainability
 Added new feature for better user experience - update 30
 Fixed typo in documentation - build 168
+Updated configuration settings - v8.0.8
