@@ -33,3 +33,4 @@ Refactored code for better maintainability - update 21
 Updated dependencies to latest versions - 801
 Updated README with new instructions - update 31
 Updated version number - update 41
+Optimized algorithm for better efficiency - v8.6.2
