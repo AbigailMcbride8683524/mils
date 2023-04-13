@@ -35,3 +35,4 @@ Updated README with new instructions - update 31
 Updated version number - update 41
 Optimized algorithm for better efficiency - v8.6.2
 Fixed critical bug in main module - v9.5.3
+Added input validation - update 17
