@@ -31,3 +31,4 @@ Added detailed comments for clarity
 Updated dependencies to latest versions - build 444
 Refactored code for better maintainability - update 21
 Updated dependencies to latest versions - 801
+Updated README with new instructions - update 31
