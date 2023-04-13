@@ -29,3 +29,4 @@ Updated README with new instructions
 Optimized algorithm for better efficiency - v10.5.6
 Added detailed comments for clarity
 Updated dependencies to latest versions - build 444
+Refactored code for better maintainability - update 21
