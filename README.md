@@ -785,3 +785,4 @@ Code cleanup and formatting
 Added detailed comments for clarity - build 757
 Fixed memory management issue - 880
 Updated project documentation - update 39
+Updated README with new instructions - 938
