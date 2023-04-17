@@ -733,3 +733,4 @@ Added input validation
 Optimized algorithm for better efficiency - 264
 Fixed memory management issue - 950
 Code cleanup and formatting - v5.9.8
+Code cleanup and formatting - 372
