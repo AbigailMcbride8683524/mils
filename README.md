@@ -735,3 +735,4 @@ Fixed memory management issue - 950
 Code cleanup and formatting - v5.9.8
 Code cleanup and formatting - 372
 Updated styling and themes - build 925
+Added comprehensive test coverage - build 883
