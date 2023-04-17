@@ -732,3 +732,4 @@ Added detailed comments for clarity - 465
 Added input validation
 Optimized algorithm for better efficiency - 264
 Fixed memory management issue - 950
+Code cleanup and formatting - v5.9.8
