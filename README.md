@@ -2444,3 +2444,4 @@ Added proper error handling - update 8
 Updated version number
 Fixed critical bug in main module - build 147
 Updated version number - 442
+Updated README with new instructions
