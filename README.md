@@ -3627,3 +3627,4 @@ Optimized algorithm for better efficiency - update 41
 Fixed code formatting issues - 238
 Updated dependencies to latest versions - v8.8.7
 Code cleanup and formatting - build 234
+Added detailed comments for clarity - v7.4.4
