@@ -311,3 +311,4 @@ Fixed memory management issue - 595
 Updated styling and themes
 Refactored code for better maintainability - v7.9.0
 Updated styling and themes - build 945
+Updated dependencies to latest versions - v8.4.4
