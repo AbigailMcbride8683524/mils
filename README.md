@@ -315,3 +315,4 @@ Updated dependencies to latest versions - v8.4.4
 Updated styling and themes
 Updated styling and themes - v2.9.9
 Updated configuration settings - update 8
+Added new feature for better user experience - v3.2.8
