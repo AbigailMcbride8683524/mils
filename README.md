@@ -309,3 +309,4 @@ Updated project documentation - 233
 Fixed typo in documentation
 Fixed memory management issue - 595
 Updated styling and themes
+Refactored code for better maintainability - v7.9.0
