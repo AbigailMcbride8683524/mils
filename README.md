@@ -991,3 +991,4 @@ Fixed memory management issue - build 988
 Code cleanup and formatting - 831
 Fixed code formatting issues - build 874
 Updated configuration settings - v8.2.1
+Code cleanup and formatting
