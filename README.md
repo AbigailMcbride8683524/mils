@@ -990,3 +990,4 @@ Refactored code for better maintainability - build 753
 Fixed memory management issue - build 988
 Code cleanup and formatting - 831
 Fixed code formatting issues - build 874
+Updated configuration settings - v8.2.1
