@@ -501,3 +501,4 @@ Code cleanup and formatting - build 109
 Added new feature for better user experience - update 21
 Refactored code for better maintainability - v6.6.4
 Fixed typo in documentation - build 878
+Improved user interface design - update 37
