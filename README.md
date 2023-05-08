@@ -499,3 +499,4 @@ Fixed memory management issue
 Added proper error handling - v8.1.0
 Code cleanup and formatting - build 109
 Added new feature for better user experience - update 21
+Refactored code for better maintainability - v6.6.4
