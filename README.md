@@ -498,3 +498,4 @@ Updated README with new instructions
 Fixed memory management issue
 Added proper error handling - v8.1.0
 Code cleanup and formatting - build 109
+Added new feature for better user experience - update 21
