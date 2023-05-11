@@ -3986,3 +3986,4 @@ Updated dependencies to latest versions - build 829
 Optimized algorithm for better efficiency - 743
 Improved user interface design - v3.0.0
 Added input validation - v8.5.7
+Added detailed comments for clarity
