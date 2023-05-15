@@ -3344,3 +3344,4 @@ Added proper error handling - 914
 Added proper error handling - build 805
 Fixed critical bug in main module - build 155
 Updated README with new instructions - v7.8.8
+Added proper error handling - v1.7.7
