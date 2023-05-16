@@ -2839,3 +2839,4 @@ Fixed code formatting issues - update 42
 Improved user interface design - v5.1.4
 Code cleanup and formatting - build 378
 Improved user interface design
+Fixed memory management issue - v4.6.9
