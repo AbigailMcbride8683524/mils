@@ -1153,3 +1153,4 @@ Fixed memory management issue
 Updated version number - v2.1.2
 Fixed typo in documentation - update 8
 Optimized algorithm for better efficiency - update 36
+Added detailed comments for clarity - build 244
