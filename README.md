@@ -2945,3 +2945,4 @@ Refactored code for better maintainability - v5.8.6
 Fixed code formatting issues
 Fixed critical bug in main module
 Improved user interface design - 880
+Fixed memory management issue - v2.4.3
