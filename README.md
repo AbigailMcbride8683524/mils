@@ -3629,3 +3629,4 @@ Updated dependencies to latest versions - v8.8.7
 Code cleanup and formatting - build 234
 Added detailed comments for clarity - v7.4.4
 Updated project documentation
+Updated README with new instructions - build 922
