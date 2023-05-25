@@ -3768,3 +3768,4 @@ Updated configuration settings - 434
 Updated project documentation - 361
 Fixed typo in documentation - update 21
 Fixed typo in documentation - 364
+Updated configuration settings - v6.8.1
