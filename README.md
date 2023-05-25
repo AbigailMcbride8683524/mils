@@ -3633,3 +3633,4 @@ Updated README with new instructions - build 922
 Added detailed comments for clarity - update 23
 Fixed critical bug in main module - v6.8.1
 Updated dependencies to latest versions - v5.4.5
+Updated version number - v1.0.8
