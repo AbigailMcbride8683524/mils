@@ -3882,3 +3882,4 @@ Fixed code formatting issues - v4.0.8
 Fixed critical bug in main module - build 887
 Fixed memory management issue - v8.4.6
 Improved user interface design - update 1
+Fixed memory management issue - v9.5.8
