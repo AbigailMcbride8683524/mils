@@ -3885,3 +3885,4 @@ Improved user interface design - update 1
 Fixed memory management issue - v9.5.8
 Updated version number - build 995
 Fixed memory management issue - build 368
+Fixed typo in documentation - build 782
