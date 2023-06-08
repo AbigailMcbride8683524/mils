@@ -467,3 +467,4 @@ Added input validation - v8.0.4
 Fixed memory management issue - v3.5.9
 Added comprehensive test coverage
 Improved performance optimization - build 411
+Updated README with new instructions - update 41
