@@ -327,3 +327,4 @@ Fixed memory management issue - update 24
 Added comprehensive test coverage - 215
 Updated configuration settings - 9
 Updated README with new instructions
+Code cleanup and formatting - v2.3.1
