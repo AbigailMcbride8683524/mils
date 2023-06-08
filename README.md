@@ -463,3 +463,4 @@ Improved user interface design - v9.6.3
 Added new feature for better user experience - update 3
 Updated version number - v8.4.8
 Updated styling and themes - 868
+Added input validation - v8.0.4
