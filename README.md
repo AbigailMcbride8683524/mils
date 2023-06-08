@@ -323,3 +323,4 @@ Updated styling and themes - v4.3.1
 Updated configuration settings - v5.9.8
 Refactored code for better maintainability - update 6
 Updated README with new instructions - update 8
+Fixed memory management issue - update 24
