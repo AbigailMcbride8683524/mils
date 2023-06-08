@@ -320,3 +320,4 @@ Improved performance optimization - build 535
 Fixed critical bug in main module - v9.2.4
 Updated version number - update 16
 Updated styling and themes - v4.3.1
+Updated configuration settings - v5.9.8
