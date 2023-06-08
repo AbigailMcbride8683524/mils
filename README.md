@@ -464,3 +464,4 @@ Added new feature for better user experience - update 3
 Updated version number - v8.4.8
 Updated styling and themes - 868
 Added input validation - v8.0.4
+Fixed memory management issue - v3.5.9
