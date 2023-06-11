@@ -2315,3 +2315,4 @@ Updated README with new instructions - update 19
 Updated version number
 Updated styling and themes - update 10
 Refactored code for better maintainability - build 328
+Updated README with new instructions - build 790
