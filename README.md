@@ -516,3 +516,4 @@ Optimized algorithm for better efficiency - v3.6.5
 Updated dependencies to latest versions
 Added new feature for better user experience - 156
 Improved user interface design - 826
+Added input validation - 954
