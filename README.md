@@ -512,3 +512,4 @@ Updated README with new instructions - v7.1.5
 Updated README with new instructions - update 21
 Updated version number - build 320
 Fixed critical bug in main module
+Optimized algorithm for better efficiency - v3.6.5
