@@ -1654,3 +1654,4 @@ Added new feature for better user experience - update 40
 Optimized algorithm for better efficiency - update 43
 Updated README with new instructions - 872
 Added proper error handling - v4.5.2
+Updated README with new instructions - update 9
