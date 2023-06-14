@@ -1649,3 +1649,4 @@ Updated version number
 Updated dependencies to latest versions - update 11
 Added detailed comments for clarity - 575
 Added comprehensive test coverage - v10.1.6
+Fixed memory management issue - 209
