@@ -1803,3 +1803,4 @@ Fixed typo in documentation - update 28
 Added input validation - v1.0.9
 Updated version number - v3.1.8
 Added new feature for better user experience
+Added proper error handling - update 16
