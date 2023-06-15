@@ -1434,3 +1434,4 @@ Updated styling and themes - build 362
 Fixed critical bug in main module
 Fixed memory management issue
 Added detailed comments for clarity - 804
+Added detailed comments for clarity - v5.8.2
