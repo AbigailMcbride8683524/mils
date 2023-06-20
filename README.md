@@ -2620,3 +2620,4 @@ Updated README with new instructions - v2.7.7
 Optimized algorithm for better efficiency
 Updated project documentation - build 533
 Refactored code for better maintainability - v4.8.2
+Added detailed comments for clarity - update 20
