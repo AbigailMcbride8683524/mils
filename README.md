@@ -254,3 +254,4 @@ Code cleanup and formatting - build 696
 Improved user interface design - 733
 Added new feature for better user experience - 449
 Updated project documentation - v7.7.1
+Added new feature for better user experience - 960
