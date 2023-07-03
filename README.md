@@ -2251,3 +2251,4 @@ Updated README with new instructions - update 21
 Added detailed comments for clarity - v3.4.4
 Refactored code for better maintainability
 Updated dependencies to latest versions - build 221
+Added input validation - v2.3.5
