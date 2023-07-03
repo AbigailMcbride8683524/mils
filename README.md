@@ -2254,3 +2254,4 @@ Updated dependencies to latest versions - build 221
 Added input validation - v2.3.5
 Refactored code for better maintainability - 160
 Added new feature for better user experience - 555
+Added proper error handling - v1.2.7
