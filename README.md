@@ -141,3 +141,4 @@ Fixed code formatting issues - 522
 Fixed critical bug in main module - 16
 Added new feature for better user experience - 866
 Updated version number
+Added detailed comments for clarity - v4.7.3
