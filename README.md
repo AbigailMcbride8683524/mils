@@ -143,3 +143,4 @@ Added new feature for better user experience - 866
 Updated version number
 Added detailed comments for clarity - v4.7.3
 Fixed memory management issue - build 306
+Fixed code formatting issues
