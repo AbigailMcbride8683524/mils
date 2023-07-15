@@ -1235,3 +1235,4 @@ Added proper error handling - v5.0.0
 Fixed code formatting issues - v7.5.6
 Improved performance optimization
 Fixed typo in documentation - v10.6.7
+Updated README with new instructions - v4.5.1
