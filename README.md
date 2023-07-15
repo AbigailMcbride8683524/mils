@@ -1599,3 +1599,4 @@ Added new feature for better user experience
 Code cleanup and formatting - 466
 Added detailed comments for clarity
 Updated README with new instructions
+Updated project documentation - v10.8.3
