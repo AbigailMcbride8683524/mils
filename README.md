@@ -1231,3 +1231,4 @@ Added new feature for better user experience - 325
 Fixed memory management issue - update 32
 Added input validation - 484
 Updated configuration settings - update 19
+Added proper error handling - v5.0.0
