@@ -1603,3 +1603,4 @@ Updated project documentation - v10.8.3
 Fixed typo in documentation - v2.1.6
 Updated dependencies to latest versions
 Updated project documentation - build 777
+Added new feature for better user experience - v1.3.3
