@@ -3077,3 +3077,4 @@ Added input validation - update 26
 Fixed typo in documentation - update 26
 Updated project documentation
 Added proper error handling
+Updated README with new instructions
