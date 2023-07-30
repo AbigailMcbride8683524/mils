@@ -2589,3 +2589,4 @@ Added input validation - 209
 Added detailed comments for clarity - build 194
 Optimized algorithm for better efficiency
 Fixed critical bug in main module - v8.5.2
+Updated README with new instructions - update 36
