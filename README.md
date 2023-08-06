@@ -221,3 +221,4 @@ Added new feature for better user experience - 474
 Fixed memory management issue - build 683
 Updated dependencies to latest versions - v5.3.8
 Updated configuration settings - build 754
+Fixed typo in documentation - 136
