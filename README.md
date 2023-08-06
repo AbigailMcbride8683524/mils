@@ -224,3 +224,4 @@ Updated configuration settings - build 754
 Fixed typo in documentation - 136
 Fixed typo in documentation - build 877
 Improved user interface design - update 27
+Code cleanup and formatting - build 413
