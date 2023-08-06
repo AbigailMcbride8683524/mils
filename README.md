@@ -2990,3 +2990,4 @@ Fixed code formatting issues - 57
 Updated project documentation - update 26
 Updated configuration settings
 Updated configuration settings - v7.8.6
+Added detailed comments for clarity - v2.8.7
