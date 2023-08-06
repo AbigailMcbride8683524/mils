@@ -2989,3 +2989,4 @@ Added new feature for better user experience
 Fixed code formatting issues - 57
 Updated project documentation - update 26
 Updated configuration settings
+Updated configuration settings - v7.8.6
