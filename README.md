@@ -3595,3 +3595,4 @@ Fixed code formatting issues - build 214
 Added comprehensive test coverage
 Fixed typo in documentation - v7.4.4
 Updated dependencies to latest versions - build 928
+Fixed memory management issue
