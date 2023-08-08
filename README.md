@@ -1517,3 +1517,4 @@ Code cleanup and formatting - update 48
 Fixed critical bug in main module - update 45
 Updated configuration settings - build 174
 Updated configuration settings - update 22
+Updated version number - v5.6.2
