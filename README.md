@@ -1510,3 +1510,4 @@ Fixed code formatting issues - v2.5.4
 Fixed memory management issue - build 515
 Fixed critical bug in main module - v2.6.4
 Added proper error handling
+Added detailed comments for clarity
