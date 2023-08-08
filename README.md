@@ -1830,3 +1830,4 @@ Updated README with new instructions - build 509
 Updated styling and themes - 67
 Fixed typo in documentation - update 27
 Updated configuration settings - v6.4.8
+Fixed typo in documentation
