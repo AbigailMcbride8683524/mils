@@ -1828,3 +1828,4 @@ Fixed typo in documentation - update 9
 Updated project documentation
 Updated README with new instructions - build 509
 Updated styling and themes - 67
+Fixed typo in documentation - update 27
