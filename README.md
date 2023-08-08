@@ -1831,3 +1831,4 @@ Updated styling and themes - 67
 Fixed typo in documentation - update 27
 Updated configuration settings - v6.4.8
 Fixed typo in documentation
+Updated version number - update 17
