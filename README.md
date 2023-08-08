@@ -1837,3 +1837,4 @@ Updated version number - update 7
 Updated version number - v2.8.2
 Fixed typo in documentation
 Updated README with new instructions - v4.2.7
+Refactored code for better maintainability - 596
