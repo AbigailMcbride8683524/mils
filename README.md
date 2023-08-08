@@ -1834,3 +1834,4 @@ Fixed typo in documentation
 Updated version number - update 17
 Added proper error handling - 746
 Updated version number - update 7
+Updated version number - v2.8.2
