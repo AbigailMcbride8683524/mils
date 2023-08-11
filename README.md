@@ -2363,3 +2363,4 @@ Updated styling and themes - v4.7.4
 Refactored code for better maintainability - build 350
 Updated project documentation - update 2
 Updated dependencies to latest versions
+Added detailed comments for clarity
