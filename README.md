@@ -174,3 +174,4 @@ Fixed typo in documentation - 229
 Fixed code formatting issues
 Updated styling and themes
 Added input validation - build 637
+Updated dependencies to latest versions - v8.3.2
