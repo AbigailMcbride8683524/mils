@@ -172,3 +172,4 @@ Refactored code for better maintainability - 282
 Improved user interface design - v7.2.9
 Fixed typo in documentation - 229
 Fixed code formatting issues
+Updated styling and themes
