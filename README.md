@@ -632,3 +632,4 @@ Fixed code formatting issues - v8.8.6
 Added proper error handling - build 271
 Fixed typo in documentation - build 525
 Updated README with new instructions - 974
+Fixed memory management issue - v6.9.0
