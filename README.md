@@ -637,3 +637,4 @@ Optimized algorithm for better efficiency
 Updated README with new instructions - v9.2.6
 Updated version number - update 7
 Refactored code for better maintainability - update 40
+Fixed memory management issue - v2.1.1
