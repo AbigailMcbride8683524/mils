@@ -636,3 +636,4 @@ Fixed memory management issue - v6.9.0
 Optimized algorithm for better efficiency
 Updated README with new instructions - v9.2.6
 Updated version number - update 7
+Refactored code for better maintainability - update 40
