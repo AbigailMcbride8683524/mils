@@ -631,3 +631,4 @@ Updated styling and themes - update 47
 Fixed code formatting issues - v8.8.6
 Added proper error handling - build 271
 Fixed typo in documentation - build 525
+Updated README with new instructions - 974
