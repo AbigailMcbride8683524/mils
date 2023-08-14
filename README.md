@@ -629,3 +629,4 @@ Fixed typo in documentation
 Fixed memory management issue - build 894
 Updated styling and themes - update 47
 Fixed code formatting issues - v8.8.6
+Added proper error handling - build 271
