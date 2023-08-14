@@ -634,3 +634,4 @@ Fixed typo in documentation - build 525
 Updated README with new instructions - 974
 Fixed memory management issue - v6.9.0
 Optimized algorithm for better efficiency
+Updated README with new instructions - v9.2.6
