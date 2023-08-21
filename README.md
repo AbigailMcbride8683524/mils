@@ -3013,3 +3013,4 @@ Updated version number - v2.9.3
 Added new feature for better user experience - build 668
 Updated styling and themes
 Updated styling and themes - 790
+Fixed critical bug in main module - update 36
