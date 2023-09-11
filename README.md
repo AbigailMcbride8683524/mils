@@ -2268,3 +2268,4 @@ Updated configuration settings - 539
 Code cleanup and formatting - 701
 Fixed memory management issue - build 867
 Updated README with new instructions - build 958
+Added input validation - v1.9.0
