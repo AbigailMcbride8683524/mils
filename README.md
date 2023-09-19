@@ -987,3 +987,4 @@ Updated project documentation - build 139
 Updated dependencies to latest versions
 Improved user interface design - v1.6.2
 Refactored code for better maintainability - build 753
+Fixed memory management issue - build 988
