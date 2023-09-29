@@ -931,3 +931,4 @@ Added proper error handling - build 951
 Fixed code formatting issues - v1.6.0
 Added proper error handling - 183
 Fixed typo in documentation - build 693
+Updated README with new instructions - v5.4.3
