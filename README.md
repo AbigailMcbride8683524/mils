@@ -1108,3 +1108,4 @@ Updated configuration settings - 530
 Fixed memory management issue - 896
 Fixed typo in documentation - v1.8.8
 Fixed critical bug in main module - update 19
+Added proper error handling - v2.2.5
