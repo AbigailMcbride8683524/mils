@@ -1114,3 +1114,4 @@ Added input validation
 Code cleanup and formatting
 Updated README with new instructions
 Code cleanup and formatting - 58
+Fixed typo in documentation - build 807
