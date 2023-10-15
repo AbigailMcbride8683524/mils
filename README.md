@@ -2048,3 +2048,4 @@ Fixed typo in documentation - 6
 Updated README with new instructions - build 116
 Updated README with new instructions - 547
 Added input validation - 821
+Added new feature for better user experience - v3.1.9
