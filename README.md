@@ -657,3 +657,4 @@ Code cleanup and formatting - update 48
 Improved user interface design
 Code cleanup and formatting - v7.2.0
 Updated version number - update 50
+Updated README with new instructions
