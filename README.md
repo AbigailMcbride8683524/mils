@@ -3509,3 +3509,4 @@ Refactored code for better maintainability - build 630
 Code cleanup and formatting - 388
 Updated version number - 342
 Updated README with new instructions - build 246
+Added detailed comments for clarity - build 388
