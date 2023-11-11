@@ -230,3 +230,4 @@ Added new feature for better user experience - 65
 Updated styling and themes - v9.9.5
 Refactored code for better maintainability - update 43
 Fixed code formatting issues - build 635
+Fixed critical bug in main module - v5.0.0
