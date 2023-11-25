@@ -385,3 +385,4 @@ Fixed critical bug in main module - update 16
 Updated styling and themes - update 17
 Refactored code for better maintainability - build 323
 Updated version number - 933
+Added input validation - v8.0.2
