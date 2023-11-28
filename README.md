@@ -2577,3 +2577,4 @@ Added input validation
 Added proper error handling - v6.4.8
 Updated dependencies to latest versions - update 40
 Updated configuration settings
+Updated version number - v5.0.7
