@@ -3693,3 +3693,4 @@ Updated README with new instructions
 Improved user interface design
 Code cleanup and formatting - update 16
 Updated styling and themes - build 820
+Updated README with new instructions - 601
