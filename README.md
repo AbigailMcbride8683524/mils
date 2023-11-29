@@ -3694,3 +3694,4 @@ Improved user interface design
 Code cleanup and formatting - update 16
 Updated styling and themes - build 820
 Updated README with new instructions - 601
+Added proper error handling - v7.2.0
