@@ -3696,3 +3696,4 @@ Updated styling and themes - build 820
 Updated README with new instructions - 601
 Added proper error handling - v7.2.0
 Fixed code formatting issues - 138
+Fixed typo in documentation - 21
