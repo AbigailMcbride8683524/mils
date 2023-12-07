@@ -3952,3 +3952,4 @@ Updated version number - v9.4.1
 Refactored code for better maintainability
 Added comprehensive test coverage - update 24
 Fixed memory management issue
+Fixed memory management issue - v1.3.1
