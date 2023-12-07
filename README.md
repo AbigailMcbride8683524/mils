@@ -3956,3 +3956,4 @@ Fixed memory management issue - v1.3.1
 Improved user interface design - 672
 Improved user interface design - v6.8.9
 Updated dependencies to latest versions - 733
+Fixed memory management issue - 832
