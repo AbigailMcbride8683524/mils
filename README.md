@@ -1251,3 +1251,4 @@ Improved performance optimization
 Updated README with new instructions - 118
 Fixed critical bug in main module - 545
 Fixed code formatting issues
+Updated README with new instructions - update 40
