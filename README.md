@@ -698,3 +698,4 @@ Updated styling and themes - 894
 Updated README with new instructions - update 13
 Fixed memory management issue - build 461
 Updated styling and themes
+Fixed typo in documentation
