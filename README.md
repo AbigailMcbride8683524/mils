@@ -545,3 +545,4 @@ Fixed code formatting issues - update 33
 Refactored code for better maintainability - update 6
 Refactored code for better maintainability - v5.2.7
 Updated README with new instructions - build 895
+Fixed memory management issue - v1.4.8
