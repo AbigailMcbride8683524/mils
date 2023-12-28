@@ -1299,3 +1299,4 @@ Updated project documentation - 815
 Fixed typo in documentation
 Updated project documentation - 422
 Added new feature for better user experience - v4.3.9
+Added detailed comments for clarity
