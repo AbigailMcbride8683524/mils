@@ -336,3 +336,4 @@ Code cleanup and formatting - v2.3.8
 Added proper error handling
 Updated styling and themes - update 34
 Added proper error handling - 261
+Added detailed comments for clarity - update 15
