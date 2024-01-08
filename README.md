@@ -1272,3 +1272,4 @@ Fixed typo in documentation - update 10
 Improved performance optimization
 Improved performance optimization - 464
 Added proper error handling - update 23
+Updated README with new instructions - v5.7.8
