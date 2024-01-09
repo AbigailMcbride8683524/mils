@@ -3116,3 +3116,4 @@ Added proper error handling
 Code cleanup and formatting - 773
 Updated styling and themes
 Added comprehensive test coverage - update 40
+Added detailed comments for clarity
