@@ -3108,3 +3108,4 @@ Updated configuration settings - v2.5.8
 Updated project documentation
 Updated README with new instructions - v5.8.2
 Updated dependencies to latest versions - update 22
+Added input validation - 116
