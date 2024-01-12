@@ -3665,3 +3665,4 @@ Code cleanup and formatting
 Code cleanup and formatting - update 35
 Updated version number
 Refactored code for better maintainability - v8.7.8
+Added new feature for better user experience - 394
