@@ -3667,3 +3667,4 @@ Updated version number
 Refactored code for better maintainability - v8.7.8
 Added new feature for better user experience - 394
 Added new feature for better user experience - v2.0.5
+Updated README with new instructions - update 31
