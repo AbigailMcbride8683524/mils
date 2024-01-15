@@ -3790,3 +3790,4 @@ Code cleanup and formatting
 Added comprehensive test coverage - v10.7.9
 Added comprehensive test coverage - 114
 Updated project documentation
+Added new feature for better user experience - update 21
