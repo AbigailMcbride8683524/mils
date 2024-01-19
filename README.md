@@ -2020,3 +2020,4 @@ Fixed memory management issue - build 374
 Fixed code formatting issues - build 554
 Fixed typo in documentation - update 14
 Updated dependencies to latest versions
+Added input validation - v8.9.7
