@@ -3928,3 +3928,4 @@ Added input validation - build 571
 Updated styling and themes - 454
 Added proper error handling - 737
 Fixed memory management issue
+Fixed code formatting issues - v9.6.0
