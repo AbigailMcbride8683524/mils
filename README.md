@@ -2023,3 +2023,4 @@ Updated dependencies to latest versions
 Added input validation - v8.9.7
 Improved user interface design - 470
 Added comprehensive test coverage - v9.3.4
+Updated README with new instructions - v4.9.2
