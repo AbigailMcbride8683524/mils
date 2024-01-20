@@ -388,3 +388,4 @@ Updated version number - 933
 Added input validation - v8.0.2
 Fixed code formatting issues - update 29
 Fixed memory management issue - build 212
+Updated README with new instructions - 869
