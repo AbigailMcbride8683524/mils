@@ -2116,3 +2116,4 @@ Refactored code for better maintainability - build 923
 Code cleanup and formatting - 322
 Improved user interface design
 Updated version number - build 452
+Updated README with new instructions - v10.7.9
