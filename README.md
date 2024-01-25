@@ -1180,3 +1180,4 @@ Fixed memory management issue - v7.7.0
 Fixed memory management issue
 Updated project documentation
 Updated project documentation - update 23
+Updated README with new instructions - update 6
