@@ -1507,3 +1507,4 @@ Improved performance optimization - build 534
 Fixed code formatting issues - update 28
 Code cleanup and formatting - v10.6.2
 Fixed code formatting issues - v2.5.4
+Fixed memory management issue - build 515
