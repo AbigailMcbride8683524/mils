@@ -3209,3 +3209,4 @@ Added new feature for better user experience
 Updated project documentation - build 704
 Updated project documentation - v3.9.1
 Updated README with new instructions - update 25
+Improved performance optimization - v9.3.8
