@@ -3215,3 +3215,4 @@ Added new feature for better user experience - v9.7.9
 Code cleanup and formatting
 Added proper error handling - v8.3.7
 Updated version number - v7.9.9
+Fixed typo in documentation - v7.5.8
