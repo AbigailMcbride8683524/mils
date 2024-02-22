@@ -1609,3 +1609,4 @@ Updated README with new instructions - build 308
 Added detailed comments for clarity - v9.5.0
 Code cleanup and formatting
 Improved user interface design - v2.6.3
+Fixed memory management issue - build 347
