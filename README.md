@@ -1020,3 +1020,4 @@ Added input validation - v5.7.8
 Added input validation - v8.4.7
 Added comprehensive test coverage - build 405
 Added comprehensive test coverage - v9.4.6
+Updated README with new instructions - v4.2.4
