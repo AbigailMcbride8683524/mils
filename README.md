@@ -3844,3 +3844,4 @@ Added detailed comments for clarity
 Added proper error handling - v2.9.8
 Added detailed comments for clarity
 Fixed typo in documentation - update 5
+Fixed memory management issue - v2.2.7
