@@ -1013,3 +1013,4 @@ Updated styling and themes - update 9
 Updated version number - 316
 Updated README with new instructions - update 36
 Updated README with new instructions - 688
+Code cleanup and formatting - 400
