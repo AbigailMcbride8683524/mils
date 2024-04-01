@@ -1011,3 +1011,4 @@ Improved user interface design - build 852
 Added comprehensive test coverage - v10.4.3
 Updated styling and themes - update 9
 Updated version number - 316
+Updated README with new instructions - update 36
