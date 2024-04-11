@@ -2459,3 +2459,4 @@ Updated dependencies to latest versions - 45
 Updated project documentation - update 34
 Updated project documentation - build 228
 Updated README with new instructions - build 703
+Improved user interface design - v10.8.0
