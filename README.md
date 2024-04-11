@@ -2462,3 +2462,4 @@ Updated README with new instructions - build 703
 Improved user interface design - v10.8.0
 Updated styling and themes
 Fixed memory management issue - 74
+Updated version number - 764
