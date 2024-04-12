@@ -2630,3 +2630,4 @@ Added detailed comments for clarity - v4.6.4
 Updated dependencies to latest versions - update 39
 Fixed memory management issue - v7.6.7
 Added detailed comments for clarity - build 156
+Updated README with new instructions - 264
