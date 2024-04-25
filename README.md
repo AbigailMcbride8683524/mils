@@ -564,3 +564,4 @@ Added comprehensive test coverage - v10.3.0
 Updated styling and themes
 Updated version number - 538
 Updated styling and themes - update 46
+Fixed memory management issue - update 27
