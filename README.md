@@ -567,3 +567,4 @@ Updated styling and themes - update 46
 Fixed memory management issue - update 27
 Added comprehensive test coverage - update 15
 Added proper error handling - v2.6.4
+Updated README with new instructions - 556
