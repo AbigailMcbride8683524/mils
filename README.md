@@ -2337,3 +2337,4 @@ Fixed typo in documentation - 758
 Added input validation - v5.8.7
 Fixed code formatting issues
 Added comprehensive test coverage - 26
+Fixed code formatting issues
