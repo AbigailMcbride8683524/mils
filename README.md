@@ -2333,3 +2333,4 @@ Fixed memory management issue - build 399
 Updated README with new instructions - build 671
 Updated dependencies to latest versions - v4.8.8
 Code cleanup and formatting - 234
+Fixed typo in documentation - 758
