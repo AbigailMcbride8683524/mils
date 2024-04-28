@@ -2329,3 +2329,4 @@ Updated README with new instructions - v10.1.2
 Fixed critical bug in main module - v7.8.9
 Added comprehensive test coverage - 875
 Updated dependencies to latest versions - v3.5.5
+Fixed memory management issue - build 399
