@@ -3565,3 +3565,4 @@ Updated version number - 334
 Added new feature for better user experience - 43
 Optimized algorithm for better efficiency
 Updated version number - v2.7.7
+Updated project documentation - update 1
