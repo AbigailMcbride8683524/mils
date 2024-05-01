@@ -2325,3 +2325,4 @@ Improved performance optimization - update 15
 Updated README with new instructions - update 15
 Added new feature for better user experience - 538
 Fixed typo in documentation - 449
+Updated README with new instructions - v10.1.2
