@@ -2581,3 +2581,4 @@ Updated version number - v5.0.7
 Fixed memory management issue - 561
 Updated project documentation - 307
 Updated styling and themes - build 263
+Added input validation - build 814
