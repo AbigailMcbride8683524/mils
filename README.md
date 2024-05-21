@@ -55,3 +55,4 @@ Improved user interface design - v8.6.9
 Refactored code for better maintainability - v2.3.8
 Fixed code formatting issues - 72
 Code cleanup and formatting - update 38
+Added detailed comments for clarity - 550
