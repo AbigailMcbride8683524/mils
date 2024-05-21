@@ -51,3 +51,4 @@ Added new feature for better user experience
 Updated project documentation
 Added new feature for better user experience
 Code cleanup and formatting - v2.7.4
+Improved user interface design - v8.6.9
