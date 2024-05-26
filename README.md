@@ -1076,3 +1076,4 @@ Updated version number - v6.4.9
 Updated configuration settings - build 542
 Refactored code for better maintainability - v3.9.1
 Added new feature for better user experience - update 46
+Fixed typo in documentation
