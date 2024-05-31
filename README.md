@@ -240,3 +240,4 @@ Refactored code for better maintainability - build 736
 Updated styling and themes - v2.8.9
 Fixed code formatting issues - 816
 Fixed code formatting issues - 864
+Fixed code formatting issues - 105
