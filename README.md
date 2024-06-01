@@ -1410,3 +1410,4 @@ Fixed memory management issue - 243
 Optimized algorithm for better efficiency - update 43
 Added comprehensive test coverage - build 509
 Fixed critical bug in main module - build 988
+Updated README with new instructions - v9.9.4
