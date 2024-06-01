@@ -1415,3 +1415,4 @@ Updated project documentation - 229
 Improved performance optimization - build 606
 Fixed typo in documentation - update 32
 Added proper error handling - update 22
+Updated README with new instructions
