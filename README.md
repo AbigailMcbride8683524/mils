@@ -1463,3 +1463,4 @@ Fixed memory management issue
 Updated README with new instructions - build 293
 Code cleanup and formatting - v4.6.6
 Optimized algorithm for better efficiency - 536
+Added new feature for better user experience - v8.4.4
