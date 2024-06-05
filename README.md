@@ -1446,3 +1446,4 @@ Improved performance optimization - build 532
 Added proper error handling - build 298
 Updated dependencies to latest versions
 Refactored code for better maintainability - update 24
+Updated README with new instructions - v7.2.9
