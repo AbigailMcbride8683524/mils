@@ -1221,3 +1221,4 @@ Updated dependencies to latest versions - 617
 Updated project documentation - 404
 Updated README with new instructions - build 496
 Updated README with new instructions - v3.9.8
+Refactored code for better maintainability - v8.4.2
