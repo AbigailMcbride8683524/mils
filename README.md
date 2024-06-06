@@ -1219,3 +1219,4 @@ Fixed typo in documentation - build 158
 Fixed critical bug in main module - v5.2.7
 Updated dependencies to latest versions - 617
 Updated project documentation - 404
+Updated README with new instructions - build 496
