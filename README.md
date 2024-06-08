@@ -1920,3 +1920,4 @@ Updated README with new instructions - build 270
 Added new feature for better user experience
 Added new feature for better user experience - update 35
 Refactored code for better maintainability
+Fixed critical bug in main module - v6.5.0
