@@ -1574,3 +1574,4 @@ Fixed typo in documentation - v3.8.1
 Improved performance optimization
 Added new feature for better user experience - build 445
 Fixed typo in documentation - build 574
+Added detailed comments for clarity - build 523
