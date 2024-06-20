@@ -2718,3 +2718,4 @@ Updated configuration settings
 Updated version number
 Updated dependencies to latest versions - build 866
 Updated styling and themes
+Added detailed comments for clarity - build 645
