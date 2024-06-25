@@ -285,3 +285,4 @@ Added proper error handling
 Added new feature for better user experience - v1.8.2
 Updated configuration settings
 Added comprehensive test coverage - build 671
+Updated README with new instructions
