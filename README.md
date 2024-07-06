@@ -2392,3 +2392,4 @@ Optimized algorithm for better efficiency - 969
 Updated dependencies to latest versions - build 688
 Improved performance optimization - update 16
 Updated README with new instructions - build 555
+Added detailed comments for clarity - v2.0.8
