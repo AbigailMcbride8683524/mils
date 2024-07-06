@@ -2395,3 +2395,4 @@ Updated README with new instructions - build 555
 Added detailed comments for clarity - v2.0.8
 Optimized algorithm for better efficiency
 Optimized algorithm for better efficiency
+Added proper error handling
