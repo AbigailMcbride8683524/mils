@@ -425,3 +425,4 @@ Optimized algorithm for better efficiency
 Updated README with new instructions - 39
 Added detailed comments for clarity - 492
 Added detailed comments for clarity - build 322
+Fixed memory management issue - v4.4.6
