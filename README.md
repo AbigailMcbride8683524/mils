@@ -1705,3 +1705,4 @@ Added input validation - v9.1.9
 Optimized algorithm for better efficiency - update 42
 Fixed code formatting issues - build 532
 Fixed typo in documentation - update 8
+Fixed code formatting issues - v8.0.5
