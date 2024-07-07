@@ -1707,3 +1707,4 @@ Fixed code formatting issues - build 532
 Fixed typo in documentation - update 8
 Fixed code formatting issues - v8.0.5
 Added detailed comments for clarity - update 19
+Updated README with new instructions
