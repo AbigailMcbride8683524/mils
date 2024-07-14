@@ -3783,3 +3783,4 @@ Updated version number - v10.5.8
 Fixed code formatting issues
 Fixed code formatting issues
 Updated project documentation - 781
+Fixed code formatting issues - 40
