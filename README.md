@@ -3780,3 +3780,4 @@ Code cleanup and formatting - 862
 Fixed critical bug in main module - 522
 Fixed critical bug in main module - update 47
 Updated version number - v10.5.8
+Fixed code formatting issues
