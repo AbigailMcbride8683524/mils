@@ -3715,3 +3715,4 @@ Fixed critical bug in main module - 624
 Fixed memory management issue
 Updated README with new instructions - v10.8.9
 Code cleanup and formatting - build 697
+Added detailed comments for clarity - v3.3.6
