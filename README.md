@@ -1776,3 +1776,4 @@ Fixed memory management issue
 Updated dependencies to latest versions - v10.1.8
 Fixed critical bug in main module - 180
 Updated styling and themes
+Updated configuration settings - 268
