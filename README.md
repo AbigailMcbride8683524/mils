@@ -2827,3 +2827,4 @@ Updated configuration settings
 Updated configuration settings - 220
 Updated configuration settings - update 26
 Updated project documentation - build 220
+Fixed memory management issue
