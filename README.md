@@ -2822,3 +2822,4 @@ Fixed code formatting issues - update 37
 Updated project documentation - build 176
 Improved user interface design - update 37
 Updated dependencies to latest versions
+Updated README with new instructions - build 191
