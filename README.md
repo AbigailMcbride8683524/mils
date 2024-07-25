@@ -552,3 +552,4 @@ Fixed memory management issue - 655
 Improved user interface design - update 40
 Updated README with new instructions - 121
 Code cleanup and formatting
+Added detailed comments for clarity - 33
