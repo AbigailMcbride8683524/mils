@@ -549,3 +549,4 @@ Fixed memory management issue - v1.4.8
 Added new feature for better user experience - v1.3.4
 Improved user interface design - v8.3.4
 Fixed memory management issue - 655
+Improved user interface design - update 40
