@@ -626,3 +626,4 @@ Refactored code for better maintainability - v10.0.9
 Fixed memory management issue - update 26
 Fixed critical bug in main module
 Fixed typo in documentation
+Fixed memory management issue - build 894
