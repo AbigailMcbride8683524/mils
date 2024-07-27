@@ -2495,3 +2495,4 @@ Updated version number
 Updated README with new instructions
 Code cleanup and formatting
 Updated dependencies to latest versions
+Added new feature for better user experience - 998
