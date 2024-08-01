@@ -2097,3 +2097,4 @@ Fixed memory management issue
 Updated README with new instructions - build 399
 Updated README with new instructions - v8.9.9
 Updated README with new instructions
+Refactored code for better maintainability
