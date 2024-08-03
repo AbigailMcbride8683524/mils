@@ -1361,3 +1361,4 @@ Updated styling and themes - build 333
 Improved performance optimization
 Fixed memory management issue - v9.7.1
 Updated dependencies to latest versions - build 393
+Fixed typo in documentation
