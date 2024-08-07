@@ -94,3 +94,4 @@ Added detailed comments for clarity - update 1
 Updated configuration settings
 Refactored code for better maintainability - v6.4.0
 Updated README with new instructions - 23
+Updated version number - v7.7.1
