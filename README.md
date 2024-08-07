@@ -93,3 +93,4 @@ Improved user interface design - 276
 Added detailed comments for clarity - update 1
 Updated configuration settings
 Refactored code for better maintainability - v6.4.0
+Updated README with new instructions - 23
