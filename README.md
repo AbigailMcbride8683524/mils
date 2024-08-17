@@ -261,3 +261,4 @@ Updated version number
 Fixed typo in documentation - update 36
 Updated version number - build 677
 Updated project documentation - build 156
+Updated README with new instructions - update 17
