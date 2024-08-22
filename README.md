@@ -1479,3 +1479,4 @@ Updated project documentation - update 45
 Updated configuration settings - 280
 Fixed typo in documentation - v5.5.2
 Added proper error handling - update 13
+Fixed typo in documentation - 295
