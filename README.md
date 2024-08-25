@@ -1312,3 +1312,4 @@ Updated dependencies to latest versions - build 516
 Updated README with new instructions - build 173
 Updated version number
 Updated version number
+Updated dependencies to latest versions - v2.5.2
