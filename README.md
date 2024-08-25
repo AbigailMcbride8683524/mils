@@ -752,3 +752,4 @@ Optimized algorithm for better efficiency - v6.6.2
 Updated styling and themes
 Updated project documentation - 661
 Added input validation - update 46
+Updated README with new instructions - update 50
