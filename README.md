@@ -753,3 +753,4 @@ Updated styling and themes
 Updated project documentation - 661
 Added input validation - update 46
 Updated README with new instructions - update 50
+Fixed typo in documentation
