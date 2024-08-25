@@ -1313,3 +1313,4 @@ Updated README with new instructions - build 173
 Updated version number
 Updated version number
 Updated dependencies to latest versions - v2.5.2
+Improved performance optimization - v2.7.4
