@@ -2760,3 +2760,4 @@ Added input validation - v4.8.0
 Added input validation - v2.5.9
 Added input validation - 637
 Fixed critical bug in main module - 857
+Refactored code for better maintainability - v3.3.3
