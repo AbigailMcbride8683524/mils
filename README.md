@@ -1368,3 +1368,4 @@ Code cleanup and formatting - update 8
 Updated version number
 Updated configuration settings
 Optimized algorithm for better efficiency - 763
+Optimized algorithm for better efficiency - v1.6.0
