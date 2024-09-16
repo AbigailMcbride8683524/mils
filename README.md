@@ -2104,3 +2104,4 @@ Updated styling and themes - build 414
 Refactored code for better maintainability
 Updated version number - v4.2.4
 Updated README with new instructions - v1.2.8
+Fixed memory management issue - build 439
