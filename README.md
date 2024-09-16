@@ -2098,3 +2098,4 @@ Updated README with new instructions - build 399
 Updated README with new instructions - v8.9.9
 Updated README with new instructions
 Refactored code for better maintainability
+Fixed code formatting issues - v7.6.6
