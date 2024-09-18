@@ -3653,3 +3653,4 @@ Added comprehensive test coverage - 460
 Code cleanup and formatting
 Updated configuration settings - build 885
 Code cleanup and formatting
+Updated configuration settings - v8.5.8
