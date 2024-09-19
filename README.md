@@ -2501,3 +2501,4 @@ Updated configuration settings - 13
 Code cleanup and formatting - 949
 Code cleanup and formatting - build 554
 Added new feature for better user experience
+Updated version number - v5.0.5
