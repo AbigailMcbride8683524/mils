@@ -720,3 +720,4 @@ Added detailed comments for clarity - update 35
 Improved performance optimization - 236
 Updated version number - 430
 Fixed memory management issue - 68
+Updated README with new instructions - 985
