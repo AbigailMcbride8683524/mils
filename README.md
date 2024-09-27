@@ -477,3 +477,4 @@ Updated version number - 819
 Fixed typo in documentation - v7.8.2
 Improved user interface design - build 788
 Fixed memory management issue
+Added detailed comments for clarity - update 13
