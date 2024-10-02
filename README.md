@@ -693,3 +693,4 @@ Added new feature for better user experience - update 6
 Updated version number - update 49
 Updated project documentation
 Updated styling and themes
+Updated version number - update 12
