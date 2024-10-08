@@ -2910,3 +2910,4 @@ Code cleanup and formatting - v6.0.8
 Fixed critical bug in main module - update 15
 Code cleanup and formatting - build 201
 Fixed typo in documentation - build 231
+Added detailed comments for clarity
