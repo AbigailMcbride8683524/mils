@@ -73,3 +73,4 @@ Code cleanup and formatting - v1.0.3
 Added input validation
 Added proper error handling - build 137
 Fixed typo in documentation - update 43
+Fixed memory management issue - v1.5.5
