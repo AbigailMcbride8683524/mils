@@ -2717,3 +2717,4 @@ Fixed code formatting issues - build 248
 Updated configuration settings
 Updated version number
 Updated dependencies to latest versions - build 866
+Updated styling and themes
