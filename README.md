@@ -2710,3 +2710,4 @@ Updated project documentation - 980
 Updated styling and themes
 Added proper error handling - update 19
 Fixed typo in documentation - build 541
+Updated README with new instructions - update 28
