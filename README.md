@@ -1886,3 +1886,4 @@ Code cleanup and formatting - 925
 Added input validation
 Updated dependencies to latest versions
 Improved performance optimization - v8.3.7
+Added detailed comments for clarity - 408
