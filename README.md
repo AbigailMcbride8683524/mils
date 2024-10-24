@@ -743,3 +743,4 @@ Code cleanup and formatting - build 391
 Improved user interface design - v9.4.2
 Updated dependencies to latest versions
 Added input validation - build 158
+Fixed memory management issue
