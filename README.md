@@ -301,3 +301,4 @@ Fixed typo in documentation - build 467
 Updated project documentation
 Fixed code formatting issues
 Updated README with new instructions
+Fixed memory management issue - 962
