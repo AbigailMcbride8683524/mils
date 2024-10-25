@@ -300,3 +300,4 @@ Improved user interface design - 953
 Fixed typo in documentation - build 467
 Updated project documentation
 Fixed code formatting issues
+Updated README with new instructions
