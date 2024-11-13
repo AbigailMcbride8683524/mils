@@ -1177,3 +1177,4 @@ Updated styling and themes - build 369
 Updated configuration settings
 Added input validation - update 2
 Fixed memory management issue - v7.7.0
+Fixed memory management issue
