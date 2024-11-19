@@ -437,3 +437,4 @@ Fixed typo in documentation - v10.3.0
 Updated README with new instructions - 701
 Updated styling and themes - update 42
 Updated styling and themes - update 17
+Added detailed comments for clarity - update 15
