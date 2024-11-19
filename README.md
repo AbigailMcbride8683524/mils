@@ -434,3 +434,4 @@ Fixed memory management issue
 Added proper error handling
 Added comprehensive test coverage - build 132
 Fixed typo in documentation - v10.3.0
+Updated README with new instructions - 701
