@@ -430,3 +430,4 @@ Improved performance optimization - v10.7.7
 Added detailed comments for clarity
 Code cleanup and formatting - v10.2.5
 Updated project documentation - v4.9.7
+Fixed memory management issue
