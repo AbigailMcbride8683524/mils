@@ -2072,3 +2072,4 @@ Fixed typo in documentation - v6.8.8
 Refactored code for better maintainability
 Code cleanup and formatting - update 18
 Updated version number - update 44
+Updated project documentation - update 36
