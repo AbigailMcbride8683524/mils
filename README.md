@@ -2402,3 +2402,4 @@ Updated styling and themes
 Updated styling and themes - 260
 Updated configuration settings
 Fixed memory management issue - 556
+Fixed memory management issue
