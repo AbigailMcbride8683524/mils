@@ -2401,3 +2401,4 @@ Fixed typo in documentation - v3.2.2
 Updated styling and themes
 Updated styling and themes - 260
 Updated configuration settings
+Fixed memory management issue - 556
