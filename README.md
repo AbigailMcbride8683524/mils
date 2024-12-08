@@ -2406,3 +2406,4 @@ Fixed memory management issue
 Added proper error handling - 347
 Code cleanup and formatting - build 615
 Fixed typo in documentation - build 475
+Added proper error handling - v6.4.0
