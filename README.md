@@ -1991,3 +1991,4 @@ Updated dependencies to latest versions
 Code cleanup and formatting
 Updated project documentation
 Fixed typo in documentation - build 284
+Fixed memory management issue
