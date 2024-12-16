@@ -3246,3 +3246,4 @@ Fixed memory management issue - v10.0.1
 Fixed memory management issue - v5.1.1
 Updated dependencies to latest versions - update 12
 Added proper error handling
+Added input validation - v3.0.0
