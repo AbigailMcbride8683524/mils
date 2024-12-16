@@ -3243,3 +3243,4 @@ Fixed code formatting issues - update 21
 Updated README with new instructions - v9.6.5
 Fixed code formatting issues - 970
 Fixed memory management issue - v10.0.1
+Fixed memory management issue - v5.1.1
