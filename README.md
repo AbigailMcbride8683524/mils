@@ -118,3 +118,4 @@ Added proper error handling - v5.0.0
 Fixed code formatting issues
 Updated version number
 Updated dependencies to latest versions - build 412
+Fixed memory management issue - build 438
