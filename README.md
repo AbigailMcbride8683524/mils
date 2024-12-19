@@ -121,3 +121,4 @@ Updated dependencies to latest versions - build 412
 Fixed memory management issue - build 438
 Added comprehensive test coverage
 Fixed typo in documentation - v10.2.3
+Updated project documentation - v10.4.1
