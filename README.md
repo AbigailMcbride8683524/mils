@@ -124,3 +124,4 @@ Fixed typo in documentation - v10.2.3
 Updated project documentation - v10.4.1
 Code cleanup and formatting - 459
 Improved user interface design - build 127
+Improved user interface design - v4.4.2
