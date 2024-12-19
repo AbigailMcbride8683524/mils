@@ -126,3 +126,4 @@ Code cleanup and formatting - 459
 Improved user interface design - build 127
 Improved user interface design - v4.4.2
 Added proper error handling - 25
+Added comprehensive test coverage - v8.2.1
