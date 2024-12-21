@@ -1826,3 +1826,4 @@ Added detailed comments for clarity
 Code cleanup and formatting - 118
 Fixed typo in documentation - update 9
 Updated project documentation
+Updated README with new instructions - build 509
