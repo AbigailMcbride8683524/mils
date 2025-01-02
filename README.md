@@ -2472,3 +2472,4 @@ Added new feature for better user experience - update 5
 Fixed memory management issue - 117
 Refactored code for better maintainability - 986
 Updated dependencies to latest versions - update 50
+Updated README with new instructions
