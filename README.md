@@ -3106,3 +3106,4 @@ Updated version number - 358
 Updated project documentation - update 48
 Updated configuration settings - v2.5.8
 Updated project documentation
+Updated README with new instructions - v5.8.2
