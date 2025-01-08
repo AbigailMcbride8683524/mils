@@ -1330,3 +1330,4 @@ Updated project documentation - build 403
 Fixed memory management issue - v4.7.8
 Fixed code formatting issues
 Optimized algorithm for better efficiency - 456
+Fixed memory management issue - update 13
