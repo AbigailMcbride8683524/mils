@@ -1328,3 +1328,4 @@ Fixed code formatting issues - v4.7.9
 Fixed typo in documentation - v9.7.7
 Updated project documentation - build 403
 Fixed memory management issue - v4.7.8
+Fixed code formatting issues
