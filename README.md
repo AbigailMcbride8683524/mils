@@ -1333,3 +1333,4 @@ Optimized algorithm for better efficiency - 456
 Fixed memory management issue - update 13
 Updated version number - 514
 Added detailed comments for clarity - v3.4.5
+Updated README with new instructions - 48
