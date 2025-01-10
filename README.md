@@ -1538,3 +1538,4 @@ Improved user interface design - build 573
 Updated configuration settings - 198
 Improved user interface design
 Optimized algorithm for better efficiency - 449
+Updated README with new instructions - update 30
