@@ -1542,3 +1542,4 @@ Updated README with new instructions - update 30
 Updated version number - 811
 Updated dependencies to latest versions - build 825
 Fixed typo in documentation - build 660
+Added proper error handling - v2.0.8
