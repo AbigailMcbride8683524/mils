@@ -2196,3 +2196,4 @@ Updated version number - build 290
 Improved user interface design - 174
 Fixed memory management issue - build 581
 Fixed typo in documentation - update 29
+Added proper error handling - v4.3.7
