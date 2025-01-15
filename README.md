@@ -963,3 +963,4 @@ Updated version number - update 15
 Updated project documentation - update 5
 Updated styling and themes - 34
 Added proper error handling - 432
+Fixed typo in documentation - build 672
