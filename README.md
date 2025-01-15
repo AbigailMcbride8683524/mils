@@ -966,3 +966,4 @@ Added proper error handling - 432
 Fixed typo in documentation - build 672
 Code cleanup and formatting - update 21
 Updated version number - v7.2.2
+Refactored code for better maintainability
