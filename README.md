@@ -2850,3 +2850,4 @@ Refactored code for better maintainability
 Improved performance optimization - build 298
 Refactored code for better maintainability
 Fixed code formatting issues - 990
+Improved user interface design - v4.8.8
