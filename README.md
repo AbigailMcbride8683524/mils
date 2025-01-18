@@ -2852,3 +2852,4 @@ Refactored code for better maintainability
 Fixed code formatting issues - 990
 Improved user interface design - v4.8.8
 Improved user interface design - build 956
+Fixed code formatting issues - v1.8.6
