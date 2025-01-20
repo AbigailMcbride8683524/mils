@@ -893,3 +893,4 @@ Added new feature for better user experience
 Improved user interface design
 Optimized algorithm for better efficiency - v4.4.2
 Refactored code for better maintainability - update 34
+Added detailed comments for clarity
