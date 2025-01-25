@@ -2033,3 +2033,4 @@ Updated version number - 892
 Updated README with new instructions - v6.7.1
 Updated version number - 375
 Updated configuration settings
+Refactored code for better maintainability - update 8
