@@ -2279,3 +2279,4 @@ Fixed critical bug in main module - update 10
 Updated version number
 Updated dependencies to latest versions - v4.0.5
 Added new feature for better user experience - v3.9.4
+Added detailed comments for clarity - 784
