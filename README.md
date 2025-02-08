@@ -2937,3 +2937,4 @@ Fixed critical bug in main module - 979
 Updated styling and themes - update 15
 Updated configuration settings - 416
 Fixed memory management issue - v2.2.1
+Fixed critical bug in main module - v4.6.4
