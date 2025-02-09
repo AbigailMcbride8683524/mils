@@ -2603,3 +2603,4 @@ Optimized algorithm for better efficiency - build 164
 Fixed memory management issue
 Fixed typo in documentation - 956
 Optimized algorithm for better efficiency
+Fixed typo in documentation - build 117
