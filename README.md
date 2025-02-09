@@ -2601,3 +2601,4 @@ Updated styling and themes - 176
 Added input validation
 Optimized algorithm for better efficiency - build 164
 Fixed memory management issue
+Fixed typo in documentation - 956
