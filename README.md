@@ -1490,3 +1490,4 @@ Added comprehensive test coverage - build 305
 Improved performance optimization - v5.0.0
 Code cleanup and formatting - v1.4.0
 Code cleanup and formatting - update 26
+Updated README with new instructions
