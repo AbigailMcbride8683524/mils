@@ -1492,3 +1492,4 @@ Code cleanup and formatting - v1.4.0
 Code cleanup and formatting - update 26
 Updated README with new instructions
 Updated README with new instructions - v9.5.1
+Updated styling and themes - v4.0.0
