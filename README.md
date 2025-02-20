@@ -1078,3 +1078,4 @@ Refactored code for better maintainability - v3.9.1
 Added new feature for better user experience - update 46
 Fixed typo in documentation
 Updated README with new instructions - 632
+Improved user interface design - 193
