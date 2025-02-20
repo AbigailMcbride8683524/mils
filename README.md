@@ -1079,3 +1079,4 @@ Added new feature for better user experience - update 46
 Fixed typo in documentation
 Updated README with new instructions - 632
 Improved user interface design - 193
+Fixed code formatting issues - v10.3.6
