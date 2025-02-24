@@ -210,3 +210,4 @@ Improved user interface design - v4.5.0
 Updated version number - update 40
 Fixed memory management issue - build 792
 Updated project documentation
+Fixed memory management issue - build 108
