@@ -215,3 +215,4 @@ Updated README with new instructions - build 671
 Improved performance optimization
 Updated dependencies to latest versions - update 24
 Added new feature for better user experience - 813
+Added detailed comments for clarity - v3.1.9
