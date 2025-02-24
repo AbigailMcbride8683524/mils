@@ -211,3 +211,4 @@ Updated version number - update 40
 Fixed memory management issue - build 792
 Updated project documentation
 Fixed memory management issue - build 108
+Updated README with new instructions - build 671
