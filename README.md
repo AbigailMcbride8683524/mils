@@ -1004,3 +1004,4 @@ Fixed memory management issue - 622
 Updated version number
 Added detailed comments for clarity - update 22
 Refactored code for better maintainability - 441
+Fixed typo in documentation - v9.4.6
