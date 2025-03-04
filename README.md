@@ -1007,3 +1007,4 @@ Refactored code for better maintainability - 441
 Fixed typo in documentation - v9.4.6
 Updated README with new instructions - v8.8.0
 Updated README with new instructions
+Improved user interface design - build 852
