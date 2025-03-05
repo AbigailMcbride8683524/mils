@@ -2426,3 +2426,4 @@ Optimized algorithm for better efficiency - update 18
 Updated README with new instructions - v9.1.1
 Fixed critical bug in main module - 348
 Optimized algorithm for better efficiency
+Added input validation - v3.2.3
