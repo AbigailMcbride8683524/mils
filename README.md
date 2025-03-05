@@ -3898,3 +3898,4 @@ Added comprehensive test coverage - v1.2.4
 Code cleanup and formatting - 342
 Updated configuration settings
 Fixed critical bug in main module - build 588
+Code cleanup and formatting - v1.5.0
