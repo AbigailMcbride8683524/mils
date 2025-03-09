@@ -1660,3 +1660,4 @@ Fixed typo in documentation - build 941
 Updated version number - update 33
 Fixed critical bug in main module - update 49
 Updated README with new instructions - v8.9.6
+Fixed typo in documentation - 252
