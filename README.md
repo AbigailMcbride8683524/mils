@@ -1663,3 +1663,4 @@ Updated README with new instructions - v8.9.6
 Fixed typo in documentation - 252
 Added comprehensive test coverage - build 446
 Added comprehensive test coverage - build 222
+Added input validation - update 28
