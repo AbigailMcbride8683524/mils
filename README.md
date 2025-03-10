@@ -2548,3 +2548,4 @@ Updated version number - build 902
 Updated version number - v5.7.0
 Updated project documentation
 Code cleanup and formatting - update 47
+Added detailed comments for clarity - build 836
