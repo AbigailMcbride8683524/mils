@@ -764,3 +764,4 @@ Improved user interface design - 862
 Updated dependencies to latest versions - v2.4.4
 Fixed typo in documentation - 205
 Updated styling and themes - v8.7.8
+Fixed memory management issue
