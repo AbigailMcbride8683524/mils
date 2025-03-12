@@ -761,3 +761,4 @@ Updated styling and themes - 142
 Fixed critical bug in main module
 Added new feature for better user experience - build 102
 Improved user interface design - 862
+Updated dependencies to latest versions - v2.4.4
