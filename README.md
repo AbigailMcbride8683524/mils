@@ -767,3 +767,4 @@ Updated styling and themes - v8.7.8
 Fixed memory management issue
 Fixed critical bug in main module - update 44
 Fixed typo in documentation - v2.8.9
+Added new feature for better user experience
