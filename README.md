@@ -2642,3 +2642,4 @@ Fixed critical bug in main module - 333
 Code cleanup and formatting - update 42
 Improved user interface design - build 755
 Updated project documentation
+Updated README with new instructions
