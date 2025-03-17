@@ -2518,3 +2518,4 @@ Updated README with new instructions - 287
 Improved user interface design - v9.9.1
 Updated dependencies to latest versions - 673
 Updated version number - 418
+Added detailed comments for clarity - update 28
