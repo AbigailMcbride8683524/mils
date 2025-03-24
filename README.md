@@ -2212,3 +2212,4 @@ Updated configuration settings - 51
 Fixed code formatting issues - build 331
 Fixed code formatting issues - v1.3.1
 Updated version number - v4.0.3
+Updated version number - v2.4.8
