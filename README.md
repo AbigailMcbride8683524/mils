@@ -2215,3 +2215,4 @@ Updated version number - v4.0.3
 Updated version number - v2.4.8
 Updated README with new instructions - 260
 Improved performance optimization - build 535
+Fixed critical bug in main module - v4.4.5
