@@ -3609,3 +3609,4 @@ Fixed code formatting issues - build 223
 Improved user interface design - update 23
 Updated dependencies to latest versions - update 44
 Updated README with new instructions - v10.2.8
+Updated version number - update 25
