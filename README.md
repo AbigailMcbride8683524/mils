@@ -3521,3 +3521,4 @@ Updated version number
 Added comprehensive test coverage
 Refactored code for better maintainability - 943
 Improved user interface design - build 233
+Updated README with new instructions - v6.6.3
