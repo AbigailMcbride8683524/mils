@@ -494,3 +494,4 @@ Optimized algorithm for better efficiency - build 150
 Updated README with new instructions
 Added detailed comments for clarity - update 6
 Refactored code for better maintainability - update 38
+Updated README with new instructions
