@@ -492,3 +492,4 @@ Updated configuration settings - v9.5.0
 Updated project documentation - update 41
 Optimized algorithm for better efficiency - build 150
 Updated README with new instructions
+Added detailed comments for clarity - update 6
