@@ -496,3 +496,4 @@ Added detailed comments for clarity - update 6
 Refactored code for better maintainability - update 38
 Updated README with new instructions
 Fixed memory management issue
+Added proper error handling - v8.1.0
