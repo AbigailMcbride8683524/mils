@@ -2836,3 +2836,4 @@ Updated styling and themes
 Added input validation - update 24
 Added input validation - build 642
 Fixed code formatting issues - update 42
+Improved user interface design - v5.1.4
