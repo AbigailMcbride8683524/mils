@@ -1891,3 +1891,4 @@ Updated dependencies to latest versions - build 532
 Added comprehensive test coverage - v1.9.9
 Updated dependencies to latest versions - build 106
 Updated README with new instructions - 224
+Added detailed comments for clarity
