@@ -269,3 +269,4 @@ Updated styling and themes - v5.5.9
 Updated configuration settings - build 736
 Updated dependencies to latest versions
 Fixed critical bug in main module
+Code cleanup and formatting - build 597
