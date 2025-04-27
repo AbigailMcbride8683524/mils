@@ -197,3 +197,4 @@ Added new feature for better user experience
 Added input validation - 582
 Fixed code formatting issues - 651
 Updated project documentation - v5.4.7
+Added proper error handling - v4.9.9
