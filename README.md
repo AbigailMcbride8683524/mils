@@ -3639,3 +3639,4 @@ Added new feature for better user experience - update 49
 Updated dependencies to latest versions - build 292
 Code cleanup and formatting - v3.5.3
 Updated version number - build 405
+Added detailed comments for clarity - 648
