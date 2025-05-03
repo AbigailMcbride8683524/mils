@@ -3404,3 +3404,4 @@ Refactored code for better maintainability - build 834
 Fixed critical bug in main module
 Fixed code formatting issues - 844
 Added comprehensive test coverage - v9.2.6
+Updated README with new instructions - v6.2.4
