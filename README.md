@@ -1733,3 +1733,4 @@ Fixed memory management issue - 266
 Fixed code formatting issues - 873
 Fixed code formatting issues - update 34
 Updated dependencies to latest versions - 250
+Updated README with new instructions - update 29
