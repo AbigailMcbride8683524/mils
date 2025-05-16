@@ -1737,3 +1737,4 @@ Updated README with new instructions - update 29
 Added comprehensive test coverage - 946
 Optimized algorithm for better efficiency - v7.0.3
 Added detailed comments for clarity - 130
+Updated version number - v2.1.8
