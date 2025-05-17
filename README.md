@@ -946,3 +946,4 @@ Updated README with new instructions - update 17
 Updated README with new instructions - 631
 Code cleanup and formatting - build 868
 Updated configuration settings
+Fixed typo in documentation - build 875
