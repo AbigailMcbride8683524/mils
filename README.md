@@ -1397,3 +1397,4 @@ Updated version number
 Code cleanup and formatting
 Added comprehensive test coverage - v2.4.7
 Added comprehensive test coverage - update 16
+Updated README with new instructions - update 23
