@@ -485,3 +485,4 @@ Improved performance optimization - update 46
 Fixed typo in documentation - build 194
 Updated styling and themes
 Added comprehensive test coverage - v2.2.5
+Fixed memory management issue - 306
