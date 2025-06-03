@@ -3308,3 +3308,4 @@ Updated styling and themes - 756
 Fixed memory management issue - 622
 Updated dependencies to latest versions - update 14
 Updated dependencies to latest versions - build 700
+Updated README with new instructions - 367
