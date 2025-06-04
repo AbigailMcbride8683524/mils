@@ -2870,3 +2870,4 @@ Optimized algorithm for better efficiency - build 517
 Updated README with new instructions - 765
 Code cleanup and formatting - 259
 Added comprehensive test coverage - update 34
+Updated README with new instructions - 207
