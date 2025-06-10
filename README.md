@@ -680,3 +680,4 @@ Updated configuration settings - update 23
 Updated configuration settings - update 7
 Updated dependencies to latest versions - build 293
 Improved user interface design - v3.0.9
+Fixed typo in documentation - v1.4.4
