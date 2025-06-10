@@ -682,3 +682,4 @@ Updated dependencies to latest versions - build 293
 Improved user interface design - v3.0.9
 Fixed typo in documentation - v1.4.4
 Updated dependencies to latest versions - build 777
+Fixed memory management issue - 932
