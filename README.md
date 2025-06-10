@@ -678,3 +678,4 @@ Updated version number - v9.6.3
 Updated project documentation
 Updated configuration settings - update 23
 Updated configuration settings - update 7
+Updated dependencies to latest versions - build 293
