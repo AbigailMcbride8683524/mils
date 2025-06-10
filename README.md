@@ -684,3 +684,4 @@ Fixed typo in documentation - v1.4.4
 Updated dependencies to latest versions - build 777
 Fixed memory management issue - 932
 Added input validation
+Added new feature for better user experience - 717
