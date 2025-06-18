@@ -1949,3 +1949,4 @@ Refactored code for better maintainability - update 14
 Refactored code for better maintainability
 Fixed memory management issue - 791
 Updated README with new instructions - 392
+Added input validation - v7.5.0
