@@ -3740,3 +3740,4 @@ Fixed critical bug in main module
 Updated project documentation - v1.7.2
 Updated project documentation - update 40
 Fixed code formatting issues - 323
+Added detailed comments for clarity - 295
