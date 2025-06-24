@@ -772,3 +772,4 @@ Added new feature for better user experience - v7.8.6
 Optimized algorithm for better efficiency - 608
 Updated README with new instructions - update 28
 Updated version number - 896
+Fixed memory management issue
