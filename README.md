@@ -98,3 +98,4 @@ Updated version number - v7.7.1
 Added proper error handling - 411
 Fixed typo in documentation - 254
 Optimized algorithm for better efficiency - build 879
+Added detailed comments for clarity - build 860
