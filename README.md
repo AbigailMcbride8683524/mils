@@ -875,3 +875,4 @@ Updated project documentation - build 511
 Updated README with new instructions - update 5
 Fixed typo in documentation
 Updated version number
+Fixed critical bug in main module - v8.9.3
