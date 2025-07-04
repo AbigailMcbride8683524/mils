@@ -872,3 +872,4 @@ Fixed memory management issue - update 45
 Fixed typo in documentation - build 602
 Improved performance optimization - 773
 Updated project documentation - build 511
+Updated README with new instructions - update 5
