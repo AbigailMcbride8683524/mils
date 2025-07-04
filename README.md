@@ -2902,3 +2902,4 @@ Fixed typo in documentation - build 487
 Updated version number - 980
 Updated version number - 914
 Fixed code formatting issues - update 37
+Fixed memory management issue
