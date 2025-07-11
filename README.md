@@ -3191,3 +3191,4 @@ Fixed typo in documentation - 727
 Added comprehensive test coverage - v1.1.9
 Fixed typo in documentation - build 405
 Added new feature for better user experience - 749
+Fixed code formatting issues - v2.8.0
