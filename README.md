@@ -1865,3 +1865,4 @@ Updated README with new instructions
 Updated version number - v9.8.1
 Added detailed comments for clarity - build 863
 Added new feature for better user experience - v10.8.4
+Refactored code for better maintainability - v8.0.3
