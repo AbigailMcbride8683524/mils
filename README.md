@@ -1861,3 +1861,4 @@ Updated configuration settings - build 656
 Improved user interface design - build 807
 Added new feature for better user experience - update 23
 Added input validation - build 909
+Updated README with new instructions
