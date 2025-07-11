@@ -1863,3 +1863,4 @@ Added new feature for better user experience - update 23
 Added input validation - build 909
 Updated README with new instructions
 Updated version number - v9.8.1
+Added detailed comments for clarity - build 863
