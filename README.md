@@ -18,3 +18,4 @@ Added input validation - v10.8.4
 Updated styling and themes - 690
 Updated configuration settings - update 36
 Updated README with new instructions - build 911
+Improved user interface design - update 24
