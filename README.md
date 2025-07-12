@@ -20,3 +20,4 @@ Updated configuration settings - update 36
 Updated README with new instructions - build 911
 Improved user interface design - update 24
 Added new feature for better user experience
+Updated README with new instructions - update 25
