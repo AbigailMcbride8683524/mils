@@ -1749,3 +1749,4 @@ Added proper error handling - v1.0.7
 Updated dependencies to latest versions - 322
 Refactored code for better maintainability - update 5
 Updated README with new instructions - update 11
+Fixed code formatting issues - v1.8.7
