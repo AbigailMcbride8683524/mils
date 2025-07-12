@@ -27,3 +27,4 @@ Added input validation - build 201
 Fixed memory management issue - update 35
 Updated README with new instructions
 Optimized algorithm for better efficiency - v10.5.6
+Added detailed comments for clarity
