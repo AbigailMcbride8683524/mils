@@ -25,3 +25,4 @@ Updated configuration settings - 274
 Added new feature for better user experience
 Added input validation - build 201
 Fixed memory management issue - update 35
+Updated README with new instructions
