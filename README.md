@@ -856,3 +856,4 @@ Updated README with new instructions - v10.0.1
 Updated configuration settings
 Updated version number - v4.1.2
 Updated configuration settings - 898
+Fixed typo in documentation - v5.3.9
