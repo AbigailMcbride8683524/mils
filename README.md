@@ -356,3 +356,4 @@ Code cleanup and formatting
 Updated version number - 431
 Updated version number - 782
 Optimized algorithm for better efficiency - build 161
+Added new feature for better user experience
