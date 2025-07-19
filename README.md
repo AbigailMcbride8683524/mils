@@ -1144,3 +1144,4 @@ Added input validation - 93
 Updated version number - 841
 Updated project documentation
 Updated dependencies to latest versions - 2
+Fixed memory management issue - v3.2.4
