@@ -1199,3 +1199,4 @@ Updated styling and themes - 947
 Updated README with new instructions - build 364
 Optimized algorithm for better efficiency - 482
 Fixed memory management issue - 439
+Added new feature for better user experience - v9.5.2
