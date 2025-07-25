@@ -2417,3 +2417,4 @@ Updated configuration settings - 856
 Improved performance optimization - v9.5.2
 Improved performance optimization
 Added new feature for better user experience - update 30
+Fixed memory management issue
