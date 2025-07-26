@@ -1969,3 +1969,4 @@ Refactored code for better maintainability - v10.9.9
 Updated styling and themes - build 334
 Code cleanup and formatting - build 182
 Fixed typo in documentation - build 244
+Fixed critical bug in main module - v1.5.3
