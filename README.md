@@ -1977,3 +1977,4 @@ Fixed memory management issue - 680
 Updated configuration settings - v8.3.0
 Refactored code for better maintainability - 971
 Added detailed comments for clarity - update 48
+Updated README with new instructions
