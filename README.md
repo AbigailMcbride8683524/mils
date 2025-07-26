@@ -1972,3 +1972,4 @@ Fixed typo in documentation - build 244
 Fixed critical bug in main module - v1.5.3
 Code cleanup and formatting - v3.5.6
 Updated README with new instructions - update 29
+Added detailed comments for clarity
