@@ -1974,3 +1974,4 @@ Code cleanup and formatting - v3.5.6
 Updated README with new instructions - update 29
 Added detailed comments for clarity
 Fixed memory management issue - 680
+Updated configuration settings - v8.3.0
