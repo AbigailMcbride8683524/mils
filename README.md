@@ -3669,3 +3669,4 @@ Added new feature for better user experience - 394
 Added new feature for better user experience - v2.0.5
 Updated README with new instructions - update 31
 Added proper error handling - update 49
+Refactored code for better maintainability - v1.6.1
