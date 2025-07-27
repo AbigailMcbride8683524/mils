@@ -1633,3 +1633,4 @@ Fixed critical bug in main module - 727
 Code cleanup and formatting - 524
 Added proper error handling
 Updated configuration settings - 495
+Updated README with new instructions - 759
