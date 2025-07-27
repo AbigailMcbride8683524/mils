@@ -3671,3 +3671,4 @@ Updated README with new instructions - update 31
 Added proper error handling - update 49
 Refactored code for better maintainability - v1.6.1
 Updated styling and themes - 22
+Updated version number - v10.8.1
