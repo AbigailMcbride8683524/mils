@@ -3673,3 +3673,4 @@ Refactored code for better maintainability - v1.6.1
 Updated styling and themes - 22
 Updated version number - v10.8.1
 Improved user interface design - v1.7.0
+Updated README with new instructions - v8.6.9
