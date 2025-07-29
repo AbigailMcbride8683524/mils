@@ -977,3 +977,4 @@ Code cleanup and formatting
 Added new feature for better user experience - v1.1.2
 Fixed critical bug in main module - v1.3.7
 Refactored code for better maintainability - v2.3.4
+Fixed typo in documentation - v2.2.1
