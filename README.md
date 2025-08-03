@@ -3277,3 +3277,4 @@ Fixed typo in documentation - 529
 Added proper error handling
 Optimized algorithm for better efficiency - v8.2.8
 Updated configuration settings
+Updated README with new instructions
