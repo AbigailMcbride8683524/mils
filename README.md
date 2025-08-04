@@ -2145,3 +2145,4 @@ Updated version number
 Updated dependencies to latest versions - build 222
 Updated dependencies to latest versions - update 23
 Code cleanup and formatting - build 512
+Updated version number - v1.5.4
