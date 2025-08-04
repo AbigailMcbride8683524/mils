@@ -2139,3 +2139,4 @@ Improved user interface design
 Updated version number
 Fixed typo in documentation - 802
 Added new feature for better user experience - v1.8.0
+Code cleanup and formatting - build 267
