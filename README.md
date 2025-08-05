@@ -81,3 +81,4 @@ Updated configuration settings - build 649
 Updated configuration settings - update 49
 Updated version number - 58
 Updated README with new instructions - update 34
+Fixed memory management issue - v7.1.4
