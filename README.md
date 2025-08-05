@@ -83,3 +83,4 @@ Updated version number - 58
 Updated README with new instructions - update 34
 Fixed memory management issue - v7.1.4
 Updated README with new instructions - v3.9.8
+Updated dependencies to latest versions - v10.4.9
