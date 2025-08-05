@@ -80,3 +80,4 @@ Added input validation
 Updated configuration settings - build 649
 Updated configuration settings - update 49
 Updated version number - 58
+Updated README with new instructions - update 34
