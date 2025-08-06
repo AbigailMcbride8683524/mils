@@ -2349,3 +2349,4 @@ Fixed memory management issue - build 529
 Added new feature for better user experience - v8.0.3
 Updated configuration settings - v1.9.0
 Updated version number - v1.1.5
+Updated configuration settings - 998
