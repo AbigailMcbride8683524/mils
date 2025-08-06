@@ -2356,3 +2356,4 @@ Added new feature for better user experience
 Updated README with new instructions - v9.7.0
 Fixed critical bug in main module - 219
 Updated README with new instructions - 526
+Updated configuration settings - update 8
