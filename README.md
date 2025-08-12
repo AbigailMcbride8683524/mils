@@ -2510,3 +2510,4 @@ Fixed code formatting issues - update 22
 Fixed typo in documentation
 Fixed code formatting issues - build 726
 Added input validation - 705
+Improved user interface design - v7.7.8
