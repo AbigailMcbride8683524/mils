@@ -793,3 +793,4 @@ Added comprehensive test coverage
 Added detailed comments for clarity - build 411
 Refactored code for better maintainability
 Improved user interface design - v4.2.2
+Updated README with new instructions
