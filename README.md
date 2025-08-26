@@ -2375,3 +2375,4 @@ Updated project documentation - 497
 Fixed memory management issue - build 685
 Improved performance optimization - build 182
 Added new feature for better user experience
+Improved performance optimization - v2.0.8
