@@ -2376,3 +2376,4 @@ Fixed memory management issue - build 685
 Improved performance optimization - build 182
 Added new feature for better user experience
 Improved performance optimization - v2.0.8
+Fixed memory management issue - v6.1.5
