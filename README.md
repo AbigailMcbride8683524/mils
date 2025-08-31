@@ -2060,3 +2060,4 @@ Refactored code for better maintainability - v3.5.4
 Fixed typo in documentation - build 814
 Fixed memory management issue - 221
 Fixed code formatting issues - 141
+Added new feature for better user experience - update 27
