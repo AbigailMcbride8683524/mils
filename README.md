@@ -3492,3 +3492,4 @@ Fixed code formatting issues - v8.3.3
 Updated project documentation
 Fixed critical bug in main module - 742
 Added input validation
+Updated README with new instructions - v9.3.9
