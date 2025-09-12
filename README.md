@@ -953,3 +953,4 @@ Fixed memory management issue
 Added input validation - 204
 Updated version number - update 15
 Updated project documentation - 134
+Fixed memory management issue - build 103
