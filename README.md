@@ -1052,3 +1052,4 @@ Updated dependencies to latest versions - v8.8.5
 Fixed typo in documentation - v9.4.0
 Fixed typo in documentation - update 38
 Updated dependencies to latest versions - v10.5.0
+Added proper error handling - build 122
