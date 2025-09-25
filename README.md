@@ -43,3 +43,4 @@ Fixed typo in documentation
 Added input validation - build 773
 Optimized algorithm for better efficiency - 426
 Added input validation - update 11
+Updated project documentation
