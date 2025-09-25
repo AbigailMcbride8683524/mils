@@ -38,3 +38,4 @@ Fixed critical bug in main module - v9.5.3
 Added input validation - update 17
 Added input validation - v9.8.6
 Updated configuration settings - update 45
+Updated README with new instructions - v1.8.3
