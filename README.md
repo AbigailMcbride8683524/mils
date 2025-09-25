@@ -40,3 +40,4 @@ Added input validation - v9.8.6
 Updated configuration settings - update 45
 Updated README with new instructions - v1.8.3
 Fixed typo in documentation
+Added input validation - build 773
