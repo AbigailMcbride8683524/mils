@@ -2665,3 +2665,4 @@ Added detailed comments for clarity - v5.3.1
 Added new feature for better user experience - v5.6.8
 Improved user interface design - build 595
 Added proper error handling
+Updated README with new instructions - v7.1.0
