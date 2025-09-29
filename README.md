@@ -2804,3 +2804,4 @@ Code cleanup and formatting
 Fixed critical bug in main module
 Added detailed comments for clarity - v7.1.6
 Improved user interface design - v5.8.8
+Fixed code formatting issues
